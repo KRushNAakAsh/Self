@@ -21,7 +21,7 @@ namespace Self
         static String AppVersion = "1.0";
         static Double SelfAvgSpeed = 0.0; // m/s
         static Double STOPSIGNDISTANCE = 50; // meters
-        static String Applicant = "LeenaKudalkar@yahoo.com";
+        static String Applicant = "YourName@EmailEngine.com";
         static UInt16 MyCourse = 1;
 
         public static Logger LogIt = new Logger(@".\SelfLOG.txt");
