@@ -33,7 +33,7 @@ namespace Self
                 Console.BackgroundColor = System.ConsoleColor.Black;
                 Console.ForegroundColor = System.ConsoleColor.Blue;
                 
-                LogIt.WriteLine("Self version " + AppVersion + " - Copyright SMA Technologies 2020", true);
+                LogIt.WriteLine("Self version " + AppVersion , true);
 
                 if (args.Length < 2 || args[1] == "-help" || args[1] == "-?")
                 {
