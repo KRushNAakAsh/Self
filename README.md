@@ -1,2 +1,2 @@
 # Self
-SelfDrivingCar Application for SMA Technologies
+SelfDrivingCar Application for SMA
