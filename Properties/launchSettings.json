@@ -2,7 +2,7 @@
   "profiles": {
     "Self": {
       "commandName": "Project",
-      "commandLineArgs": "LeenaKudalkar@yahoo.com 3"
+      "commandLineArgs": "youremailaddress@emailserver.com 3"
     }
   }
 }
